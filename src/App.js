@@ -19,6 +19,8 @@ class App extends Component {
         <div>Firebase</div>
         <div>Bootstrap</div>
 
+        <div>Next time: set this same thing up for the other site you talked about "how many do i have left" etc</div>
+
       </div>
     );
   }
